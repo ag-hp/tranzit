@@ -1,4 +1,4 @@
-# PROYECTO INTERMODULAR - Tranzio: Llega antes de que ocurra 
+# PROYECTO INTERMODULAR - TRANZFUT: Llega antes de que ocurra 
 
 ##  Eslogans:
   - Fuerza y gancho comercial para tu app Tranzio: Get there before it happens
