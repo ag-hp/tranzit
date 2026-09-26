@@ -3,13 +3,18 @@
 <p align="center">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-Native-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Android%20Studio-Hedgehog-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
-  <img src="https://img.shields.io/badge/Firebase-FCM%20Topics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Database-Room%20SQLite-4285F4?style=for-the-badge&logo=sqlite&logoColor=white" alt="Room DB">
-  <img src="https://img.shields.io/badge/Hardware-NFC%20NTAG215-000000?style=for-the-badge&logo=nfc&logoColor=white" alt="NFC">
-  <img src="https://img.shields.io/badge/Coste-0%20%E2%82%AC%20Free%20Tier-00C853?style=for-the-badge" alt="Coste 0">
-  <img src="https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge" alt="Estado">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Room-4285F4?style=flat&logo=sqlite&logoColor=white" alt="Room">
+  <img src="https://img.shields.io/badge/NFC-000000?style=flat&logo=nfc&logoColor=white" alt="NFC">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-Educational-007ACC?style=flat" alt="License">
+  <img src="https://img.shields.io/badge/Cost-Free%20Tier-00C853?style=flat" alt="Cost">
+  <img src="https://img.shields.io/badge/Status-In%20Progress-F0B400?style=flat" alt="Status">
 </p>
 
 <p align="center">
