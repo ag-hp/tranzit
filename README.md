@@ -1,20 +1,6 @@
-# PROYECTO INTERMODULAR - TRANZIT
-TRANSPORT + CITY
-
-##  Eslogans: Llega antes de que ocurra 
-  - Fuerza y gancho comercial para tu app Tranzit: Get there before it happens
-  - Versión ultra corta y directa para un banner o pantalla de inicio: Arrive before it happens.
-
 <p align="center">
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/JetBrains/kotlin-web-site/master/docs/topics/images/kotlin-logo-social-preview.png" alt="Kotlin Banner" width="100%"/>
-</p>
-
-<h1 align="center">TRANZIT - APLICACIÓN MÓVIL DE TRANSPORTE PÚBLICO EN TIEMPO REAL</h1>
-
+  <img width="3926" height="408" alt="upscalemedia-transformed" src="https://github.com/user-attachments/assets/ea7230dd-1801-48a9-b0e7-c96742ea9b3d" />
 <p align="center">
-  
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-Native-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -26,11 +12,21 @@ TRANSPORT + CITY
   <img src="https://img.shields.io/badge/Estado-Completado-brightgreen?style=for-the-badge" alt="Estado">
 </p>
 
----
+<p align="center">
+  <img width="1963" height="10" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+</p>
+
+> [!NOTE]
+> PROYECTO INTERMODULAR
+
+TRANSPORT + CITY
+
+##  Eslogans: Llega antes de que ocurra 
+  - Fuerza y gancho comercial para tu app Tranzit: Get there before it happens
+  - Versión ultra corta y directa para un banner o pantalla de inicio: Arrive before it happens.
+
 
 ## 📌 Proyecto → Movilidad Urbana → Notificaciones Predictivas & NFC
-
----
 
 ### 1. Descripción General del Proyecto
 
@@ -48,3 +44,7 @@ TRANSPORT + CITY
 ---
 
 ### 3. Stack Tecnológico y Arquitectura
+
+<p align="center">
+  <img width="1963" height="100" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+</p>
