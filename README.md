@@ -14,7 +14,7 @@
 <p align="center">
     <img src="https://img.shields.io/badge/License-Proprietary-007ACC?style=flat" alt="License">  
     <img src="https://img.shields.io/badge/Cost-Free%20Tier-00C853?style=flat" alt="Cost">
-    <img src="https://img.shields.io/badge/Status-In%20Progress-C68A00?style=flat" alt="Project Status">
+    <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
 
 <a href="https://github.com/ag-hp/tranzit/actions/workflows/build.yml">
   <img src="https://github.com/ag-hp/tranzit/actions/workflows/build.yml/badge.svg?branch=main" alt="Build Status">
