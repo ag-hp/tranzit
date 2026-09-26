@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="3926" height="408" alt="upscalemedia-transformed" src="https://github.com/user-attachments/assets/ea7230dd-1801-48a9-b0e7-c96742ea9b3d" />
+    <img width="3926" height="408" alt="banner-tranzit-2" src="https://github.com/user-attachments/assets/8201aeb4-4546-4c67-be3a-03bb808f10ea" />
 <p align="center">
 
 <p align="center">
@@ -52,8 +52,9 @@
 > PROYECTO INTERMODULAR
 > <br>
 > TRANSPORT + CITY
-
->  [!IMPORTANT]
+> <br>
+> LOGO / APP:
+> <br>
 > Color principal: #2e68db
 > <br>
 > Color secundario: #ffffff
