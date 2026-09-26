@@ -14,9 +14,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-Educational-007ACC?style=flat" alt="License">
   <img src="https://img.shields.io/badge/Cost-Free%20Tier-00C853?style=flat" alt="Cost">
- <img src="https://img.shields.io/github/actions/workflow/status/ag-hp/tranzit/build.yml?style=flat&label=Status" alt="Build Status">
-</p>
 
+<a href="https://github.com/ag-hp/tranzit/actions/workflows/build.yml">
+  <img src="https://github.com/ag-hp/tranzit/actions/workflows/build.yml/badge.svg?branch=main" alt="Build Status">
+</a>
+
+</p>
 <p align="center">
   <img width="1963" height="10" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
 </p>
