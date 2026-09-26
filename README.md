@@ -14,7 +14,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/License-Educational-007ACC?style=flat" alt="License">
   <img src="https://img.shields.io/badge/Cost-Free%20Tier-00C853?style=flat" alt="Cost">
-  <img src="https://img.shields.io/badge/Status-In%20Progress-F0B400?style=flat" alt="Status">
+ <img src="https://img.shields.io/github/actions/workflow/status/ag-hp/tranzit/build.yml?style=flat&label=Status" alt="Build Status">
 </p>
 
 <p align="center">
