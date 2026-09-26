@@ -16,15 +16,13 @@
   <img width="1963" height="10" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
 </p>
 
-> [!NOTE]
-> PROYECTO INTERMODULAR
-
-TRANSPORT + CITY
-
 ##  Eslogans: Llega antes de que ocurra 
   - Fuerza y gancho comercial para tu app Tranzit: Get there before it happens
   - Versión ultra corta y directa para un banner o pantalla de inicio: Arrive before it happens.
 
+<p align="center">
+  <img width="1963" height="10" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+</p>
 
 ## 📌 Proyecto → Movilidad Urbana → Notificaciones Predictivas & NFC
 
@@ -32,7 +30,9 @@ TRANSPORT + CITY
 
 **TRANZIT** es una aplicación móvil nativa desarrollada para Android orientada a la anticipación de incidencias en redes de transporte público (Metro, Cercanías, CRTM). Su objetivo es alertar al usuario **antes** de que llegue a la estación mediante un backend ligero de extracción de datos y un sistema de notificaciones push segmentadas por líneas (*Firebase FCM Topics*). Además, integra lectura y escritura **NFC (NTAG215)** para consulta física de estados.
 
----
+<p align="center">
+  <img width="1963" height="10" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+</p>
 
 ### 2. Visión y Pilares Fundamentales
 
@@ -41,9 +41,22 @@ TRANSPORT + CITY
 3. **Acceso Físico NFC:** Escaneo directo de tarjetas para la comprobación rápida del estado de las líneas habituales.
 4. **Infraestructura de Coste 0 €:** Diseñado 100% sobre capas gratuitas (Firebase Free Tier, SQLite local con Room y servidores serverless en Render/Fly.io).
 
----
+<p align="center">
+  <img width="1963" height="10" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+</p>
 
 ### 3. Stack Tecnológico y Arquitectura
+
+
+> [!NOTE]
+> PROYECTO INTERMODULAR
+> <br>
+> TRANSPORT + CITY
+
+>  [!IMPORTANT]
+> Color principal: #2e68db
+> <br>
+> Color secundario: #ffffff
 
 <p align="center">
   <img width="1963" height="100" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
