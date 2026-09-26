@@ -1,6 +1,6 @@
 <p align="center">
     <img width="3926" height="408" alt="banner-tranzit-2" src="https://github.com/user-attachments/assets/8201aeb4-4546-4c67-be3a-03bb808f10ea" />
-<p align="center">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
@@ -19,10 +19,20 @@
 <a href="https://github.com/ag-hp/tranzit/actions/workflows/build.yml">
   <img src="https://github.com/ag-hp/tranzit/actions/workflows/build.yml/badge.svg?branch=main" alt="Build Status">
 </a>
-
 </p>
+
 <p align="center">
   <img width="1963" height="10" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+</p>
+
+<p>
+  Este proyecto es <strong>software propietario</strong>.
+  Consulta el archivo <a href="LICENSE">LICENSE</a> para conocer los términos de uso,
+  modificación y distribución.
+</p>
+
+<p align="center">
+  <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
 </p>
 
 ##  Eslogans: Llega antes de que ocurra 
