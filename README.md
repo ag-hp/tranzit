@@ -66,6 +66,10 @@
 
 ### 3. Stack Tecnológico y Arquitectura
 
+### 4. FUENTES
+- https://miro.com/es/
+- https://www.figma.com/es-es/
+
 
 > [!NOTE]
 > PROYECTO INTERMODULAR
