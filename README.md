@@ -66,11 +66,16 @@
 
 ### 3. Stack Tecnológico y Arquitectura
 
-### 4. FUENTES
-- https://miro.com/es/
-- https://www.figma.com/es-es/
-- https://firebase.google.com/?hl=es-419
-
+### 4. Herramientas y Tecnologías
+- UX / UI
+    - https://miro.com/es/
+    - https://www.figma.com/es-es/
+- Backend
+    - https://firebase.google.com/?hl=es-419
+    - Testlambda
+- Frontend
+    - https://www.typescriptlang.org/
+<
 
 > [!NOTE]
 > PROYECTO INTERMODULAR
