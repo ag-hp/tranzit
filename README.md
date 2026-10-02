@@ -75,7 +75,7 @@
     - Testlambda
 - Frontend
     - https://www.typescriptlang.org/
-<
+
 
 > [!NOTE]
 > PROYECTO INTERMODULAR
