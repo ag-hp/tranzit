@@ -89,5 +89,12 @@
 > Color secundario: #ffffff
 
 <p align="center">
+    <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OPENCODE-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenCode"></a>
+    <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-8E75B5?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"></a>
+    <a href="https://claude.ai"><img src="https://img.shields.io/badge/CLAUDE_CODE-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code IA"></a>
+    <a href="https://ollama.com"><img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"></a>
+</p>
+
+<p align="center">
   <img width="1963" height="100" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
 </p>
