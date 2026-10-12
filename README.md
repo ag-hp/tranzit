@@ -32,24 +32,17 @@
   modificación y distribución.
 </p>
 
-<p align="center">
-  <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
-</p>
+---
 
 ### 1. Descripción General del Proyecto
 
 **TRANZIT** es una aplicación móvil nativa desarrollada para Android orientada a la anticipación de incidencias en redes de transporte público (Metro, Cercanías, CRTM). Su objetivo es alertar al usuario **antes** de que llegue a la estación mediante un backend ligero de extracción de datos y un sistema de notificaciones push segmentadas por líneas (*Firebase FCM Topics*). Además, integra lectura y escritura **NFC (NTAG215)** para consulta física de estados.
 
-<p align="center">
-  <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
-</p>
+---
 
 ### 2.
 
-
-<p align="center">
-  <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
-</p>
+---
 
 ### 3. Herramientas y Tecnologías
 
