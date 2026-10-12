@@ -58,7 +58,7 @@
 #### UX / UI
 <p>
     <a href="https://miro.com/welcomeonboard/U3FLUWQvS21VNEFWcVF0ampiZmZYckVuWEl5bXREUlJkUk1maEUxOGswcUtUbnkrZFdTTHRCb2RlMFcvNE1pSzEzOTJnMGQyWm9yQndWaG5SMVhJZDZ6RzhDejRrVFpDampRU2RoSmJkQ2w2UlQ3eUx4c05TMy9xamRaUkk0MDhnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=569267255823"><img src="https://img.shields.io/badge/MIRO-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"></a>
-    <a href="https://www.figma.com/es-es/"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+    <a href="[https://www.figma.com/es-es/](https://www.figma.com/design/Z6szNkjDmys1xF6IiCzksp/tranzit-dise%C3%B1o?t=Nemzobr0xpCUTq8k-1)"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
 
 #### Backend
@@ -71,7 +71,8 @@
 <p>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
 </p>
-</p>
+
+---
 
 > [!NOTE]
 > PROYECTO INTERMODULAR
