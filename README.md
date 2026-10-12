@@ -64,7 +64,7 @@
 
 #### UX / UI
 <p>
-    <a href="https://miro.com/es/"><img src="https://img.shields.io/badge/MIRO-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"></a>
+    <a href="https://miro.com/welcomeonboard/U3FLUWQvS21VNEFWcVF0ampiZmZYckVuWEl5bXREUlJkUk1maEUxOGswcUtUbnkrZFdTTHRCb2RlMFcvNE1pSzEzOTJnMGQyWm9yQndWaG5SMVhJZDZ6RzhDejRrVFpDampRU2RoSmJkQ2w2UlQ3eUx4c05TMy9xamRaUkk0MDhnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=569267255823"><img src="https://img.shields.io/badge/MIRO-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"></a>
     <a href="https://www.figma.com/es-es/"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
 </p>
 
@@ -78,27 +78,6 @@
 <p>
     <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
 </p>
-</p>
-
-#### UX / UI
-<p>
-    <a href="https://miro.com/es/"><img src="https://img.shields.io/badge/MIRO-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"></a>
-    <a href="https://www.figma.com/es-es/"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-</p>
-
-#### Backend
-<p>
-    <a href="https://firebase.google.com/?hl=es-419"><img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
-    <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/TESTLAMBDA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Testlambda"></a>
-</p>
-
-#### Frontend
-<p>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-</p>
-
-<p align="center">
-  <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
 </p>
 
 > [!NOTE]
