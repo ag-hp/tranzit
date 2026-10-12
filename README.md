@@ -36,16 +36,6 @@
   <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
 </p>
 
-##  Eslogans: Llega antes de que ocurra 
-  - Fuerza y gancho comercial para tu app Tranzit: Get there before it happens
-  - Versión ultra corta y directa para un banner o pantalla de inicio: Arrive before it happens.
-
-<p align="center">
-  <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
-</p>
-
-## 📌 Proyecto → Movilidad Urbana → Notificaciones Predictivas & NFC
-
 ### 1. Descripción General del Proyecto
 
 **TRANZIT** es una aplicación móvil nativa desarrollada para Android orientada a la anticipación de incidencias en redes de transporte público (Metro, Cercanías, CRTM). Su objetivo es alertar al usuario **antes** de que llegue a la estación mediante un backend ligero de extracción de datos y un sistema de notificaciones push segmentadas por líneas (*Firebase FCM Topics*). Además, integra lectura y escritura **NFC (NTAG215)** para consulta física de estados.
@@ -54,29 +44,62 @@
   <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
 </p>
 
-### 2. Visión y Pilares Fundamentales
+### 2.
 
-1. **Anticipación Predictiva:** Filtrado automático de avisos y tweets oficiales de transporte para disparar alertas inmediatas.
-2. **Suscripción por Líneas (Sin Spam):** El usuario solo recibe notificaciones de las líneas que utiliza (ej. `C-5`, `L10`).
-3. **Acceso Físico NFC:** Escaneo directo de tarjetas para la comprobación rápida del estado de las líneas habituales.
-4. **Infraestructura de Coste 0 €:** Diseñado 100% sobre capas gratuitas (Firebase Free Tier, SQLite local con Room y servidores serverless en Render/Fly.io).
 
 <p align="center">
   <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
 </p>
 
-### 3. Stack Tecnológico y Arquitectura
+### 3. Herramientas y Tecnologías
 
-### 4. Herramientas y Tecnologías
-- UX / UI
-    - https://miro.com/es/
-    - https://www.figma.com/es-es/
-- Backend
-    - https://firebase.google.com/?hl=es-419
-    - Testlambda
-- Frontend
-    - https://www.typescriptlang.org/
+#### Inteligencia Artificial
+<p>
+    <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OPENCODE-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenCode"></a>
+    <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-8E75B5?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"></a>
+    <a href="https://claude.ai"><img src="https://img.shields.io/badge/CLAUDE_CODE-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code IA"></a>
+    <a href="https://ollama.com"><img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"></a>
+    <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/CHATGPT_CODEX-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Codex"></a>
+</p>
 
+#### UX / UI
+<p>
+    <a href="https://miro.com/es/"><img src="https://img.shields.io/badge/MIRO-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"></a>
+    <a href="https://www.figma.com/es-es/"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+</p>
+
+#### Backend
+<p>
+    <a href="https://firebase.google.com/?hl=es-419"><img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
+    <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/TESTLAMBDA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Testlambda"></a>
+</p>
+
+#### Frontend
+<p>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+</p>
+</p>
+
+#### UX / UI
+<p>
+    <a href="https://miro.com/es/"><img src="https://img.shields.io/badge/MIRO-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"></a>
+    <a href="https://www.figma.com/es-es/"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
+</p>
+
+#### Backend
+<p>
+    <a href="https://firebase.google.com/?hl=es-419"><img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
+    <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/TESTLAMBDA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Testlambda"></a>
+</p>
+
+#### Frontend
+<p>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+</p>
+
+<p align="center">
+  <img width="1963" height="5" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+</p>
 
 > [!NOTE]
 > PROYECTO INTERMODULAR
@@ -88,13 +111,11 @@
 > Color principal: #2e68db
 > <br>
 > Color secundario: #ffffff
+> <br> 
+> Eslogans: Llega antes de que ocurra
+> - Fuerza y gancho comercial para tu app Tranzit: Get there before it happens
+> - Versión ultra corta y directa para un banner o pantalla de inicio: Arrive before it happens.
 
-<p align="center">
-    <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OPENCODE-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenCode"></a>
-    <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-8E75B5?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"></a>
-    <a href="https://claude.ai"><img src="https://img.shields.io/badge/CLAUDE_CODE-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code IA"></a>
-    <a href="https://ollama.com"><img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"></a>
-</p>
 
 <p align="center">
   <img width="1963" height="100" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
