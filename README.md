@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="3926" height="408" alt="banner-tranzit-2" src="https://github.com/user-attachments/assets/8201aeb4-4546-4c67-be3a-03bb808f10ea" />
+    <img width="3926" height="408" alt="banner" src="https://github.com/user-attachments/assets/84e77819-1950-47cb-bf75-3ec47b835990"/>
 </p>
 
 <p align="center">
@@ -93,5 +93,5 @@
 
 
 <p align="center">
-  <img width="1963" height="100" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+    <img width="1963" height="100" alt="banner-down" src="https://github.com/user-attachments/assets/8025f457-6a76-4166-918a-4411a2ee1318" />
 </p>
