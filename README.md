@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img width="1963" height="10" alt="upscalemedia-transformed - copia" src="https://github.com/user-attachments/assets/6a30cdb7-ec6a-4630-9987-53e2a084b527" />
+    <img width="1963" height="10" alt="banner-down" src="https://github.com/user-attachments/assets/8025f457-6a76-4166-918a-4411a2ee1318" />
 </p>
 
 <p>
