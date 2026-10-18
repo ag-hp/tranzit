@@ -89,6 +89,7 @@
 > - Fuerza y gancho comercial para tu app Tranzit: Get there before it happens
 > - Versión ultra corta y directa para un banner o pantalla de inicio: Arrive before it happens.
 > - [https://canva.link/0aksbmzjq1vwk68](https://canva.link/0aksbmzjq1vwk68)
+> - [https://fonts.google.com/](https://fonts.google.com/)
 
 
 <p align="center">
