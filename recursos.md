@@ -10,4 +10,4 @@
 <a href="https://firebase.google.com/?hl=es-419"><img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
 <a href="https://vercel.com"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
 <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/TESTLAMBDA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Testlambda"></a>
-<a h    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>ref="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
