@@ -8,6 +8,7 @@
     <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
     <img src="https://img.shields.io/badge/Room-4285F4?style=flat&logo=sqlite&logoColor=white" alt="Room">
     <img src="https://img.shields.io/badge/NFC-000000?style=flat&logo=nfc&logoColor=white" alt="NFC">
 </p>
@@ -64,6 +65,7 @@
 #### Backend
 <p>
     <a href="https://firebase.google.com/?hl=es-419"><img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
+    <a href="https://vercel.com"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
     <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/TESTLAMBDA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Testlambda"></a>
 </p>
 
@@ -73,24 +75,6 @@
 </p>
 
 ---
-
-> [!NOTE]
-> PROYECTO INTERMODULAR
-> <br>
-> TRANSPORT + CITY
-> <br>
-> LOGO / APP:
-> <br>
-> Color principal: #2e68db
-> <br>
-> Color secundario: #ffffff
-> <br> 
-> Eslogans: Llega antes de que ocurra
-> - Fuerza y gancho comercial para tu app Tranzit: Get there before it happens
-> - Versión ultra corta y directa para un banner o pantalla de inicio: Arrive before it happens.
-> - [https://canva.link/0aksbmzjq1vwk68](https://canva.link/0aksbmzjq1vwk68)
-> - [https://fonts.google.com/](https://fonts.google.com/)
-
 
 <p align="center">
     <img width="1963" height="100" alt="banner-down" src="https://github.com/user-attachments/assets/8025f457-6a76-4166-918a-4411a2ee1318" />
