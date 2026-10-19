@@ -47,25 +47,6 @@
 
 ### 3. Herramientas y Tecnologías
 
-
-#### UX / UI
-<p>
-    <a href="https://miro.com/welcomeonboard/U3FLUWQvS21VNEFWcVF0ampiZmZYckVuWEl5bXREUlJkUk1maEUxOGswcUtUbnkrZFdTTHRCb2RlMFcvNE1pSzEzOTJnMGQyWm9yQndWaG5SMVhJZDZ6RzhDejRrVFpDampRU2RoSmJkQ2w2UlQ3eUx4c05TMy9xamRaUkk0MDhnbHpza3F6REdEcmNpNEFOMmJXWXBBPT0hdjE=?share_link_id=569267255823"><img src="https://img.shields.io/badge/MIRO-050038?style=for-the-badge&logo=miro&logoColor=white" alt="Miro"></a>
-    <a href="https://www.figma.com/design/Z6szNkjDmys1xF6IiCzksp/tranzit-dise%C3%B1o?t=Nemzobr0xpCUTq8k-1"><img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-</p>
-
-#### Backend
-<p>
-    <a href="https://firebase.google.com/?hl=es-419"><img src="https://img.shields.io/badge/FIREBASE-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
-    <a href="https://vercel.com"><img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"></a>
-    <a href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/TESTLAMBDA-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Testlambda"></a>
-</p>
-
-#### Frontend
-<p>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-</p>
-
 ---
 
 <p align="center">
