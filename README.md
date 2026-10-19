@@ -47,14 +47,6 @@
 
 ### 3. Herramientas y Tecnologías
 
-#### Inteligencia Artificial
-<p>
-    <a href="https://opencode.ai"><img src="https://img.shields.io/badge/OPENCODE-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenCode"></a>
-    <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-8E75B5?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"></a>
-    <a href="https://claude.ai"><img src="https://img.shields.io/badge/CLAUDE_CODE-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code IA"></a>
-    <a href="https://ollama.com"><img src="https://img.shields.io/badge/OLLAMA-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"></a>
-    <a href="https://chatgpt.com"><img src="https://img.shields.io/badge/CHATGPT_CODEX-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT Codex"></a>
-</p>
 
 #### UX / UI
 <p>
