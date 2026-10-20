@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle">
@@ -24,6 +25,14 @@
   <a href="https://github.com/ag-hp/tranzit/actions/workflows/build.yml">
     <img src="https://github.com/ag-hp/tranzit/actions/workflows/build.yml/badge.svg?branch=main" alt="Build Status">
   </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ag-hp/tranzit/stargazers"><img src="https://img.shields.io/github/stars/ag-hp/tranzit.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars"></a>
+  <a href="https://github.com/ag-hp/tranzit/network/"><img src="https://img.shields.io/github/forks/ag-hp/tranzit.svg?style=social&label=Fork&maxAge=2592000" alt="GitHub forks"></a>
+  <a href="https://github.com/ag-hp/tranzit/watchers/"><img src="https://img.shields.io/github/watchers/ag-hp/tranzit.svg?style=social&label=Watch&maxAge=2592000" alt="GitHub watchers"></a>
+  <a href="https://github.com/ag-hp?tab=followers"><img src="https://img.shields.io/github/followers/ag-hp.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers"></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fag-hp%2Ftranzit&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none" alt="Visitors">
 </p>
 
 <p align="center">
@@ -263,11 +272,23 @@ tranzit/
 
 Desarrollado por **[ag-hp](https://github.com/ag-hp)** y **[]()**.
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ag-hp)
+
 ---
 
 ## 10. Licencia
 
 Este proyecto es **software propietario**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos de uso, modificación y distribución.
+
+<h3 align="center">Estrellas a lo largo del tiempo</h3>
+
+<p align="center">
+  <a href="https://starchart.cc/ag-hp/tranzit"><img src="https://starchart.cc/ag-hp/tranzit.svg" alt="Stargazers over time" width="600"></a>
+</p>
+
+<p align="center">
+  <a href="https://stars.medv.io/ag-hp/tranzit"><img src="https://stars.medv.io/ag-hp/tranzit.svg" alt="Sparkline de estrellas"></a>
+</p>
 
 <p align="center">
   <img width="1963" height="100" alt="footer" src="https://github.com/user-attachments/assets/8025f457-6a76-4166-918a-4411a2ee1318"/>
