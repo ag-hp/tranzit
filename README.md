@@ -280,8 +280,7 @@ tranzit/
 <!-- 9. Autor -->
 ## 9. Autor
 
-Desarrollado por **[ag-hp](https://github.com/ag-hp)**, [![GitHub](https://img.shields.io/badge/Ariadna_García-181717?style=flat&logo=github&logoColor=white)](https://github.com/ag-hp)
- y **[]()**.
+Desarrollado por [![GitHub](https://img.shields.io/badge/Ariadna_García-0066FF?style=flat&logo=github&logoColor=white)](https://github.com/ag-hp) e [![GitHub](https://img.shields.io/badge/Izaskun_Jimenez-0066FF?style=flat&logo=github&logoColor=white)]().
 
 
 ---
