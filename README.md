@@ -280,8 +280,20 @@ tranzit/
 <!-- 9. Autor -->
 ## 9. Autor
 
-Desarrollado por [![GitHub](https://img.shields.io/badge/Ariadna_García-0066FF?style=flat&logo=github&logoColor=white)](https://github.com/ag-hp) | [![GitHub](https://img.shields.io/badge/Izaskun_Jimenez-0066FF?style=flat&logo=github&logoColor=white)]().
+<h3>Créditos y Autoría</h3>
 
+<p>
+  El diseño, desarrollo e implementación íntegra de este proyecto han sido realizados por:
+</p>
+
+<p>
+  <a href="https://github.com/ag-hp">
+    <img src="https://img.shields.io/badge/Ariadna_García-0066FF?style=flat&logo=github&logoColor=white" align="middle">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Izaskun_Jimenez-0066FF?style=flat&logo=github&logoColor=white" align="middle">
+  </a>
+</p>
 
 ---
 
