@@ -25,7 +25,7 @@
   <a href="https://github.com/ag-hp/tranzit/actions/workflows/build.yml">
     <img src="https://github.com/ag-hp/tranzit/actions/workflows/build.yml/badge.svg?branch=main" alt="Build Status">
   </a>
-  <a href="https://github.com/ag-hp/tranzit/stargazers"><img src="https://img.shields.io/github/stars/ag-hp/tranzit.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars"></a>
+  <a href="https://github.com/ag-hp/tranzit/stargazers"><img src="https://img.shields.io/github/stars/ag-hp/tranzit.svg?style=social&label=Star&maxAge=2592000&v=2" alt="GitHub stars"></a>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fag-hp%2Ftranzit&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none" alt="Visitors">
 </p>
 
