@@ -1,11 +1,14 @@
+<!-- Banner -->
 <p align="center">
   <img width="3926" height="408" alt="TRANZIT banner" src="https://github.com/user-attachments/assets/84e77819-1950-47cb-bf75-3ec47b835990"/>
 </p>
 
+<!-- Lema -->
 <p align="center">
   <b>Anticípate a las incidencias de tu transporte público. Antes de llegar a la estación.</b>
 </p>
 
+<!-- Badges de tecnologías -->
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white" alt="Android">
@@ -18,9 +21,9 @@
   <img src="https://img.shields.io/badge/NFC-000000?style=flat&logo=nfc&logoColor=white" alt="NFC">
 </p>
 
+<!-- Badges de estado -->
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-007ACC?style=flat" alt="License"></a>
-  <img src="https://img.shields.io/badge/Cost-Free%20Tier-00C853?style=flat" alt="Cost">
   <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
   <a href="https://github.com/ag-hp/tranzit/actions/workflows/build.yml">
     <img src="https://github.com/ag-hp/tranzit/actions/workflows/build.yml/badge.svg?branch=main" alt="Build Status">
@@ -29,10 +32,12 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fag-hp%2Ftranzit&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none" alt="Visitors">
 </p>
 
+<!-- Separador -->
 <p align="center">
   <img width="1963" height="10" alt="separator" src="https://github.com/user-attachments/assets/8025f457-6a76-4166-918a-4411a2ee1318"/>
 </p>
 
+<!-- Índice -->
 ## Índice
 
 1. [Descripción](#1-descripción)
@@ -48,6 +53,7 @@
 
 ---
 
+<!-- 1. Descripción -->
 ## 1. Descripción
 
 **TRANZIT** es una aplicación móvil nativa para Android orientada a la **anticipación de incidencias** en redes de transporte público (**Metro, Cercanías y CRTM**).
@@ -56,6 +62,7 @@ Su objetivo es avisar al usuario **antes** de que llegue a la estación. Para el
 
 ---
 
+<!-- 2. Características -->
 ## 2. Características
 
 - 🔔 **Alertas push por línea**: suscripción a las líneas que usas mediante FCM Topics.
@@ -63,10 +70,10 @@ Su objetivo es avisar al usuario **antes** de que llegue a la estación. Para el
 - 📲 **NFC (NTAG215)**: lectura y escritura de tags para consultar el estado de una línea o estación.
 - 🗄️ **Persistencia local** con Room.
 - ☁️ **Backend ligero** de extracción de datos desplegado en Vercel.
-- <!-- Añade aquí nuevas características -->
 
 ---
 
+<!-- 3. Capturas -->
 ## 3. Capturas de pantalla
 
 > _Próximamente._
@@ -81,6 +88,7 @@ Su objetivo es avisar al usuario **antes** de que llegue a la estación. Para el
 
 ---
 
+<!-- 4. Arquitectura -->
 ## 4. Arquitectura
 
 ```mermaid
@@ -96,10 +104,12 @@ flowchart LR
 
 ---
 
+<!-- 5. Base de datos -->
 ## 5. Base de datos
 
 La base de datos en la nube se apoya en **Firebase (Cloud Firestore)**, y la app guarda una copia local con **Room** para consultar datos sin conexión. La estructura sale directamente de las pantallas del diseño: registro, foro de comunidad, mapa, contacto y soporte, y perfil.
 
+<!-- 5.1 Roles -->
 ### 5.1 Perfiles de usuario
 
 Cada cuenta tiene un campo `rol` que determina lo que puede hacer en la app.
@@ -110,6 +120,7 @@ Cada cuenta tiene un campo `rol` que determina lo que puede hacer en la app.
 | `usuario2` | _Por definir_ | _Por definir_ |
 | `admin` | Administrador de la app | Moderar incidencias y comentarios, gestionar usuarios, responder tickets de soporte, editar FAQ y líneas |
 
+<!-- 5.2 Modelo ER -->
 ### 5.2 Modelo entidad-relación
 
 ```mermaid
@@ -178,6 +189,7 @@ erDiagram
     }
 ```
 
+<!-- 5.3 Colecciones -->
 ### 5.3 Colecciones y pantallas
 
 | Colección | Pantalla que la usa |
@@ -195,6 +207,7 @@ erDiagram
 
 ---
 
+<!-- 6. Tecnologías -->
 ## 6. Tecnologías
 
 | Área | Tecnología |
@@ -210,6 +223,7 @@ erDiagram
 
 ---
 
+<!-- 7. Instalación -->
 ## 7. Instalación y ejecución
 
 ### Requisitos previos
@@ -242,6 +256,7 @@ cd tranzit
 
 ---
 
+<!-- 8. Estructura -->
 ## 8. Estructura del proyecto
 
 ```text
@@ -257,11 +272,12 @@ tranzit/
 
 > _Ajusta el árbol a la estructura real del repositorio._
 
+<!-- Enlace a la presentación -->
 📑 **Presentación del proyecto:** [`docs/presentacion/`](docs/presentacion/)
-<!-- Cuando subas el archivo, enlázalo directo: [Ver presentación](docs/presentacion/tranzit.pdf) -->
 
 ---
 
+<!-- 9. Autor -->
 ## 9. Autor
 
 Desarrollado por **[ag-hp](https://github.com/ag-hp)** y **[]()**.
@@ -270,20 +286,12 @@ Desarrollado por **[ag-hp](https://github.com/ag-hp)** y **[]()**.
 
 ---
 
+<!-- 10. Licencia -->
 ## 10. Licencia
 
 Este proyecto es **software propietario**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos de uso, modificación y distribución.
 
-<h3 align="center">Estrellas a lo largo del tiempo</h3>
-
-<p align="center">
-  <a href="https://starchart.cc/ag-hp/tranzit"><img src="https://starchart.cc/ag-hp/tranzit.svg" alt="Stargazers over time" width="600"></a>
-</p>
-
-<p align="center">
-  <a href="https://stars.medv.io/ag-hp/tranzit"><img src="https://stars.medv.io/ag-hp/tranzit.svg" alt="Sparkline de estrellas"></a>
-</p>
-
+<!-- Banner final -->
 <p align="center">
   <img width="1963" height="100" alt="footer" src="https://github.com/user-attachments/assets/8025f457-6a76-4166-918a-4411a2ee1318"/>
 </p>
