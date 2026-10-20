@@ -261,7 +261,7 @@ tranzit/
 
 ## 9. Autor
 
-Desarrollado por **[ag-hp](https://github.com/ag-hp)** y .
+Desarrollado por **[ag-hp](https://github.com/ag-hp)** y **[]()**.
 
 ---
 
