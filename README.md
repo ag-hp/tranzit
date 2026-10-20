@@ -29,7 +29,6 @@
 
 <p align="center">
   <a href="https://github.com/ag-hp/tranzit/stargazers"><img src="https://img.shields.io/github/stars/ag-hp/tranzit.svg?style=social&label=Star&maxAge=2592000" alt="GitHub stars"></a>
-  <a href="https://github.com/ag-hp/tranzit/network/"><img src="https://img.shields.io/github/forks/ag-hp/tranzit.svg?style=social&label=Fork&maxAge=2592000" alt="GitHub forks"></a>
   <a href="https://github.com/ag-hp/tranzit/watchers/"><img src="https://img.shields.io/github/watchers/ag-hp/tranzit.svg?style=social&label=Watch&maxAge=2592000" alt="GitHub watchers"></a>
   <a href="https://github.com/ag-hp?tab=followers"><img src="https://img.shields.io/github/followers/ag-hp.svg?style=social&label=Follow&maxAge=2592000" alt="GitHub followers"></a>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fag-hp%2Ftranzit&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none" alt="Visitors">
