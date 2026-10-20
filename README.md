@@ -38,23 +38,25 @@
 </p>
 
 <!-- Índice -->
-## Índice
+<p><img src="docs/assets/sec-indice.svg" alt="Índice" width="100%"></p>
 
-1. [Descripción](#1-descripción)
-2. [Características](#2-características)
-3. [Capturas de pantalla](#3-capturas-de-pantalla)
-4. [Arquitectura](#4-arquitectura)
-5. [Base de datos](#5-base-de-datos)
-6. [Tecnologías](#6-tecnologías)
-7. [Instalación y ejecución](#7-instalación-y-ejecución)
-8. [Estructura del proyecto](#8-estructura-del-proyecto)
-9. [Autor](#9-autor)
-10. [Licencia](#10-licencia)
+<p align="center">
+  <a href="#descripcion"><img src="docs/assets/idx-1.svg" alt="1. Descripción" width="300"></a>
+  <a href="#caracteristicas"><img src="docs/assets/idx-2.svg" alt="2. Características" width="300"></a><br>
+  <a href="#capturas"><img src="docs/assets/idx-3.svg" alt="3. Capturas de pantalla" width="300"></a>
+  <a href="#arquitectura"><img src="docs/assets/idx-4.svg" alt="4. Arquitectura" width="300"></a><br>
+  <a href="#base-de-datos"><img src="docs/assets/idx-5.svg" alt="5. Base de datos" width="300"></a>
+  <a href="#tecnologias"><img src="docs/assets/idx-6.svg" alt="6. Tecnologías" width="300"></a><br>
+  <a href="#instalacion"><img src="docs/assets/idx-7.svg" alt="7. Instalación y ejecución" width="300"></a>
+  <a href="#estructura"><img src="docs/assets/idx-8.svg" alt="8. Estructura del proyecto" width="300"></a><br>
+  <a href="#autor"><img src="docs/assets/idx-9.svg" alt="9. Autor" width="300"></a>
+  <a href="#licencia"><img src="docs/assets/idx-10.svg" alt="10. Licencia" width="300"></a><br>
+</p>
 
 ---
 
 <!-- 1. Descripción -->
-## 1. Descripción
+<p><a name="descripcion"></a><img src="docs/assets/sec-1-descripcion.svg" alt="1. Descripción" width="100%"></p>
 
 **TRANZIT** es una aplicación móvil nativa para Android orientada a la **anticipación de incidencias** en redes de transporte público (**Metro, Cercanías y CRTM**).
 
@@ -63,7 +65,7 @@ Su objetivo es avisar al usuario **antes** de que llegue a la estación. Para el
 ---
 
 <!-- 2. Características -->
-## 2. Características
+<p><a name="caracteristicas"></a><img src="docs/assets/sec-2-caracteristicas.svg" alt="2. Características" width="100%"></p>
 
 - 🔔 **Alertas push por línea**: suscripción a las líneas que usas mediante FCM Topics.
 - 🚇 **Cobertura multi-red**: Metro, Cercanías y CRTM.
@@ -74,7 +76,7 @@ Su objetivo es avisar al usuario **antes** de que llegue a la estación. Para el
 ---
 
 <!-- 3. Capturas -->
-## 3. Capturas de pantalla
+<p><a name="capturas"></a><img src="docs/assets/sec-3-capturas.svg" alt="3. Capturas de pantalla" width="100%"></p>
 
 > _Próximamente._
 
@@ -89,15 +91,19 @@ Su objetivo es avisar al usuario **antes** de que llegue a la estación. Para el
 ---
 
 <!-- 4. Arquitectura -->
-## 4. Arquitectura
+<p><a name="arquitectura"></a><img src="docs/assets/sec-4-arquitectura.svg" alt="4. Arquitectura" width="100%"></p>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'lineColor':'#4700FD','fontFamily':'Inter, Segoe UI, Arial, sans-serif'}}}%%
 flowchart LR
     A[Fuentes de datos<br/>Metro · Cercanías · CRTM] --> B[Backend de extracción<br/>Vercel]
     B --> C[Firebase Cloud Messaging<br/>Topics por línea]
     C --> D[App Android<br/>Kotlin + Compose]
     D <--> E[(Room)]
     D <--> F[Tag NFC<br/>NTAG215]
+
+    classDef azul fill:#4700FD,stroke:#2F00A8,stroke-width:1.5px,color:#fff,rx:10,ry:10
+    class A,B,C,D,E,F azul
 ```
 
 > _Aquí puedes ampliar con detalles de capas, patrones y decisiones técnicas._
@@ -105,12 +111,12 @@ flowchart LR
 ---
 
 <!-- 5. Base de datos -->
-## 5. Base de datos
+<p><a name="base-de-datos"></a><img src="docs/assets/sec-5-base-de-datos.svg" alt="5. Base de datos" width="100%"></p>
 
 La base de datos en la nube se apoya en **Firebase (Cloud Firestore)**, y la app guarda una copia local con **Room** para consultar datos sin conexión. La estructura sale directamente de las pantallas del diseño: registro, foro de comunidad, mapa, contacto y soporte, y perfil.
 
 <!-- 5.1 Roles -->
-### 5.1 Perfiles de usuario
+<p><img src="docs/assets/sub-5-1.svg" alt="5.1 Perfiles de usuario" width="440"></p>
 
 Cada cuenta tiene un campo `rol` que determina lo que puede hacer en la app.
 
@@ -121,9 +127,10 @@ Cada cuenta tiene un campo `rol` que determina lo que puede hacer en la app.
 | `admin` | Administrador de la app | Moderar incidencias y comentarios, gestionar usuarios, responder tickets de soporte, editar FAQ y líneas |
 
 <!-- 5.2 Modelo ER -->
-### 5.2 Modelo entidad-relación
+<p><img src="docs/assets/sub-5-2.svg" alt="5.2 Modelo entidad-relación" width="440"></p>
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#EDF2FF','primaryTextColor':'#1E0A6B','primaryBorderColor':'#4700FD','secondaryColor':'#EDF2FF','tertiaryColor':'#EDF2FF','lineColor':'#4700FD','attributeBackgroundColorOdd':'#F6F8FF','attributeBackgroundColorEven':'#EDF2FF','fontFamily':'Inter, Segoe UI, Arial, sans-serif'}}}%%
 erDiagram
     USUARIO ||--o{ INCIDENCIA : reporta
     USUARIO ||--o{ COMENTARIO : escribe
@@ -190,7 +197,7 @@ erDiagram
 ```
 
 <!-- 5.3 Colecciones -->
-### 5.3 Colecciones y pantallas
+<p><img src="docs/assets/sub-5-3.svg" alt="5.3 Colecciones y pantallas" width="440"></p>
 
 | Colección | Pantalla que la usa |
 |---|---|
@@ -208,7 +215,7 @@ erDiagram
 ---
 
 <!-- 6. Tecnologías -->
-## 6. Tecnologías
+<p><a name="tecnologias"></a><img src="docs/assets/sec-6-tecnologias.svg" alt="6. Tecnologías" width="100%"></p>
 
 | Área | Tecnología |
 |---|---|
@@ -224,16 +231,16 @@ erDiagram
 ---
 
 <!-- 7. Instalación -->
-## 7. Instalación y ejecución
+<p><a name="instalacion"></a><img src="docs/assets/sec-7-instalacion.svg" alt="7. Instalación y ejecución" width="100%"></p>
 
-### Requisitos previos
+<p><img src="docs/assets/sub-7-req.svg" alt="Requisitos previos" width="440"></p>
 
 - Android Studio (versión reciente)
 - JDK compatible con el proyecto
 - Dispositivo Android con NFC (para probar esa función)
 - Proyecto de Firebase configurado
 
-### Pasos
+<p><img src="docs/assets/sub-7-pasos.svg" alt="Pasos" width="440"></p>
 
 ```bash
 # 1. Clonar el repositorio
@@ -246,7 +253,7 @@ cd tranzit
 ./gradlew assembleDebug
 ```
 
-### Configuración de Firebase
+<p><img src="docs/assets/sub-7-firebase.svg" alt="Configuración de Firebase" width="440"></p>
 
 1. Crea un proyecto en la [consola de Firebase](https://console.firebase.google.com/).
 2. Registra la app Android y descarga `google-services.json`.
@@ -257,7 +264,7 @@ cd tranzit
 ---
 
 <!-- 8. Estructura -->
-## 8. Estructura del proyecto
+<p><a name="estructura"></a><img src="docs/assets/sec-8-estructura.svg" alt="8. Estructura del proyecto" width="100%"></p>
 
 ```text
 tranzit/
@@ -278,7 +285,7 @@ tranzit/
 ---
 
 <!-- 9. Autor -->
-## 9. Autor
+<p><a name="autor"></a><img src="docs/assets/sec-9-autor.svg" alt="9. Autor" width="100%"></p>
 
 Desarrollado por **[ag-hp](https://github.com/ag-hp)** y **[]()**.
 
@@ -287,7 +294,7 @@ Desarrollado por **[ag-hp](https://github.com/ag-hp)** y **[]()**.
 ---
 
 <!-- 10. Licencia -->
-## 10. Licencia
+<p><a name="licencia"></a><img src="docs/assets/sec-10-licencia.svg" alt="10. Licencia" width="100%"></p>
 
 Este proyecto es **software propietario**. Consulta el archivo [LICENSE](LICENSE) para conocer los términos de uso, modificación y distribución.
 
