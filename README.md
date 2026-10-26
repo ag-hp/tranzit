@@ -8,6 +8,17 @@
   <b>Anticípate a las incidencias de tu transporte público. Antes de llegar a la estación.</b>
 </p>
 
+<!-- Selector de idioma -->
+<p align="center">
+  <a href="README.md">
+    <img src="assets/boton-es.svg" alt="Leer en español">
+  </a>
+  &nbsp;
+  <a href="README.en.md">
+    <img src="assets/boton-en.svg" alt="Read in English">
+  </a>
+</p>
+
 <!-- Badges de tecnologías -->
 <p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
