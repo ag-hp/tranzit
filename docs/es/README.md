@@ -1,9 +1,9 @@
 <h1 align="center">TRANZIT · Documentación</h1>
 
 <p align="center">
-  <a href="../en/README.md"><img src="../assets/lang-button-en.svg" alt="English" height="32"></a>
+  <a href="../../README.md"><img src="../assets/back-button-en.svg" alt="Back" height="32"></a>
   &nbsp;&nbsp;
-  <a href="../../README.md">Volver al README principal</a>
+  <a href="../en/README.md"><img src="../assets/lang-button-en.svg" alt="English" height="32"></a>
 </p>
 
 ---
