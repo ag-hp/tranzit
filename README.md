@@ -9,14 +9,12 @@
 </p>
 
 <!-- Selector de idioma -->
+<h3 align="center">Idiomas · Languages</h3>
+
 <p align="center">
-  <a href="docs/es/README.md">
-    <img src="docs/assets/docs-button-es.svg" alt="Documentación en español" height="44">
-  </a>
+  <a href="docs/es/README.md"><img src="docs/assets/lang-button-es.svg" alt="Español" height="32"></a>
   &nbsp;&nbsp;
-  <a href="docs/en/README.md">
-    <img src="docs/assets/docs-button-en.svg" alt="Documentation in English" height="44">
-  </a>
+  <a href="docs/en/README.md"><img src="docs/assets/lang-button-en.svg" alt="English" height="32"></a>
 </p>
 
 <!-- Badges de tecnologías -->
