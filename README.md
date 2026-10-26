@@ -10,8 +10,12 @@
 
 <!-- Selector de idioma -->
 <p align="center">
-  <a href="docs/README.md">
-    <img src="https://img.shields.io/badge/Documentaci%C3%B3n%20%7C%20Documentation-4700FD?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Documentación | Documentation">
+  <a href="docs/es/README.md">
+    <img src="docs/assets/docs-button-es.svg" alt="Documentación en español" height="44">
+  </a>
+  &nbsp;&nbsp;
+  <a href="docs/en/README.md">
+    <img src="docs/assets/docs-button-en.svg" alt="Documentation in English" height="44">
   </a>
 </p>
 
