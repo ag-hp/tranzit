@@ -9,8 +9,6 @@
 </p>
 
 <!-- Selector de idioma -->
-<h3 align="center">Idiomas · Languages</h3>
-
 <p align="center">
   <a href="docs/es/README.md"><img src="docs/assets/lang-button-es.svg" alt="Español" height="32"></a>
   &nbsp;&nbsp;
