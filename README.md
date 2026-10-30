@@ -4,9 +4,6 @@
 </p>
 
 <!-- Lema -->
-<p align="center">
-  <b>Anticípate a las incidencias de tu transporte público. Antes de llegar a la estación.</b>
-</p>
 
 <!-- Selector de idioma -->
 <p align="center">
