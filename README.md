@@ -14,24 +14,25 @@
 
 <!-- Badges de tecnologías -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
   <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white" alt="Gradle">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/Room-4285F4?style=flat&logo=sqlite&logoColor=white" alt="Room">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel">
   <img src="https://img.shields.io/badge/NFC-000000?style=flat&logo=nfc&logoColor=white" alt="NFC">
 </p>
 
 <!-- Badges de estado -->
 <p align="center">
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-007ACC?style=flat" alt="License"></a>
-  <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
   <a href="https://github.com/ag-hp/tranzit/actions/workflows/build.yml"><img src="https://github.com/ag-hp/tranzit/actions/workflows/build.yml/badge.svg?branch=main" alt="Build Status"></a>
-  <a href="https://github.com/ag-hp/tranzit/stargazers"><img src="https://img.shields.io/github/stars/ag-hp/tranzit.svg?style=social&label=Star&maxAge=2592000&v=2" alt="GitHub stars"></a>
+  <img src="https://img.shields.io/badge/Estado-En_proceso-yellow?style=flat" alt="En proceso">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fag-hp%2Ftranzit&label=visitors&countColor=%230c7ebe&style=flat&labelStyle=none" alt="Visitors">
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Proprietary-red.svg" alt="License: Proprietary"></a>
+  <a href="https://github.com/ag-hp/tranzit/releases/latest"><img src="https://img.shields.io/github/v/release/ag-hp/tranzit?label=Download%20app&color=2563eb" alt="Download the app"></a>
+  <a href="https://github.com/ag-hp/tranzit/stargazers"><img src="https://img.shields.io/github/stars/ag-hp/tranzit.svg?style=social&label=Star&maxAge=2592000&v=2" alt="GitHub stars"></a>
 </p>
 
 <!-- Separador -->
